@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Talha Majeed</h1>
-<h3 align="left">Software Engineer | Designer | Web Developer</h3>
+<h3 align="left">Software Engineer | Web Developer | Full Stack Developer </h3>
 <p align="left">
   
 <a href="https://www.linkedin.com/in/talha-majeed-5aa44b193/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
