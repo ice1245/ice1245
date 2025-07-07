@@ -65,31 +65,3 @@
 > “Code is like humor. If you have to explain it, it’s bad.” – Me, at 3 AM after too much coffee ☕
 
 
-
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_Languages & Tools I Know..._**
-
-<p align="left">
-  <code> <img height="50" src="https://github.com/ice1245/ice1245/blob/main/figma.webp"> </code>
-  <code><img height="50" src="https://github.com/ice1245/ice1245/blob/main/html.png"></code>
-  <code> <img height="50" src="https://github.com/ice1245/ice1245/blob/main/css.png"> </code>
-  <code> <img height="50" src="https://github.com/ice1245/ice1245/blob/main/sass.svg"> </code>  
-  <code> <img height="50" src="https://github.com/ice1245/ice1245/blob/main/js.png"> </code>
-  <code> <img height="50" src="https://github.com/ice1245/ice1245/blob/main/bootstrap.png"> </code>
-  <code> <img height="50" src="https://github.com/ice1245/ice1245/blob/main/bulma.svg"> </code>
-  <code> <img height="50" src="https://github.com/ice1245/ice1245/blob/main/tailwin.png"> </code>
-  <code> <img height="50" src="https://github.com/ice1245/ice1245/blob/main/vuejs.png"> </code>
-  <code> <img height="50" src="https://github.com/ice1245/ice1245/blob/main/nuxt-logo.png"> </code>
-  <code> <img height="50" src="hhttps://github.com/ice1245/ice1245/blob/main/vuetify.png"> </code>
-  <code> <img height="50" src="https://github.com/ice1245/ice1245/blob/main/bv.png"> </code>
-  <code> <img height="50" src="https://github.com/ice1245/ice1245/blob/main/nodejs.webp"> </code>
-   <code> <img height="50" src="https://github.com/ice1245/ice1245/blob/main/git.webp"> </code>
-    <code> <img height="50" src="https://github.com/ice1245/ice1245/blob/main/github.png"> </code>
-     <code> <img height="50" src="https://github.com/ice1245/ice1245/blob/main/gitlab-282507.webp"> </code>
-     <code> <img height="50" src="https://github.com/ice1245/ice1245/blob/main/linux.png"> </code>
-  <hr>
-  <p align="center">
- <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ice1245&hide=html,java&show_icons=true&locale=en&layout=compact&count_private=true" alt="ice1245" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ice1245" alt="ice1245" width="410" /></p>
