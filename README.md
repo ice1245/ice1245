@@ -14,7 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=ice1245&label=Visitors&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
 
-> A product-minded dev focused on turning scrappy ideas into ship-ready web apps with **Vue/Nuxt, Django, Node, and TypeScript**.
+> A product-minded dev focused on turning scrappy ideas into ship-ready web apps with **Vue/Nuxt, TypeScript, and Django/FastApi **.
 
 ---
 
